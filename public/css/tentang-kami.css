@@ -31,6 +31,18 @@ body {
     position: relative;
 }
 
+.tentang {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    background-image: url(/img/ranukumbolo.jpg); /* Sama kayak hero */
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    padding: 5rem 7rem;
+}
+
 .hero::after {
     content: '';
     display: block;

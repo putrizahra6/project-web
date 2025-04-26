@@ -11,6 +11,7 @@
 <!-- Hero Section End -->
 
 <!-- Tentang Kami Section -->
+<link rel="stylesheet" href="{{ asset('css/tentang-kami.css') }}">
 <section class="tentang">
     <div class="tentang-container">
 
